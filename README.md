@@ -8,3 +8,8 @@ This repositry is a public storage of apps and samples from my personal blog [ht
 
 SuperSDG2 is a maze game, implemented in C++ on top of OpenGL(glut32 library). The goal of the game is to find an exit from the random-generated maze. (Binaries are included.)
 
+### [Altassian.Proxy](http://sergeytihon.wordpress.com/2013/06/24/confluencejira-communication-from-f-and-c/)
+
+Altassian.Proxy is a small proxy library for Confluence/Jira communication.
+
+
